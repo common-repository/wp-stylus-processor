@@ -1,0 +1,6 @@
+{
+  "folder_destinations": {
+    "stylus": "css",
+    "stylus/admin": "css/admin"
+  }
+}
